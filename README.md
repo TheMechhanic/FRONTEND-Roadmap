@@ -1,3 +1,3 @@
 # FRONTEND-Roadmap
 This project is a great example of using HTML, CSS, and JavaScript.
-You can find more information about the project on the [@Frontend-Basix](https://github.com/TheMechhanic/FRONTEND-Roadmap.git).
+You can find more information about the project on the (https://github.com/TheMechhanic/FRONTEND-Roadmap.git).
