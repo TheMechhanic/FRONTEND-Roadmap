@@ -1,4 +1,9 @@
 # README
 https://roadmap.sh/projects/single-page-cv
-# The Result
-![image]()
+Click any of the images below to view the readme and live demo of the project.
+
+<p align="left">
+  <a href=Frontend Basix Projects/01-Single-page.cv/assets/single-page-cv.png>
+    <img width="48%" src="./assets/single-page-cv.png" alt="single page cv" />
+  </a>
+ 
