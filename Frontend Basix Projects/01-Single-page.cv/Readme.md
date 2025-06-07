@@ -1,4 +1,5 @@
 # README
+The projects was built following the [roadmap.sh](https://roadmap.sh/) front-end developer path
 https://roadmap.sh/projects/single-page-cv
 Click any of the images below to view the readme and live demo of the project.
 
